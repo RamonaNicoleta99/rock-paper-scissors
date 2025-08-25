@@ -9,7 +9,7 @@ function getComputerChoice() {
   }
 }
 
-function gtHumanChoice() {
+function getHumanChoice() {
   let choice = prompt("Choose rock, paper or scissors:");
   return choice;
 }
